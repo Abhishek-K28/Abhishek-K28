@@ -13,8 +13,4 @@ I am a final-year college student passionate about web development and constantl
 - Exploring best practices in web development  
 - Enhancing my skills in backend development  
 
-### 📫 Connect with Me:
-- **GitHub:** [Your GitHub Profile Link]  
-- **LinkedIn:** [Your LinkedIn Profile Link]  
 
-Thanks for stopping by! 🚀  
