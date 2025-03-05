@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there! 👋 I'm Abhishek
 
-<!--
-**Abhishek-K28/Abhishek-K28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a final-year college student passionate about web development and constantly learning new technologies.  
 
-Here are some ideas to get you started:
+### 💻 Tech Stack:
+- **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS  
+- **Backend:** Node.js  
+- **Full Stack:** MERN Stack (Currently Learning)  
+- **Version Control:** Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Up To:
+- Building exciting projects using the MERN stack  
+- Exploring best practices in web development  
+- Enhancing my skills in backend development  
+
+### 📫 Connect with Me:
+- **GitHub:** [Your GitHub Profile Link]  
+- **LinkedIn:** [Your LinkedIn Profile Link]  
+
+Thanks for stopping by! 🚀  
